@@ -5,4 +5,5 @@ export default function App({ Component, pageProps }: AppProps) {
   return <Component {...pageProps} />
 
   // have to use AppProps apparently
+  // have to use AppProps apparently2
 }
