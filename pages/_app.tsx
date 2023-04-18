@@ -6,4 +6,5 @@ export default function App({ Component, pageProps }: AppProps) {
 
   // have to use AppProps apparently
   // have to use AppProps apparently2
+  // have to use AppProps apparently3
 }
